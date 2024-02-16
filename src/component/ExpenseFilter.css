@@ -1,0 +1,10 @@
+.expense-filter{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.expense-filter select{
+    border-radius: 8px;
+    padding: 10;
+}
